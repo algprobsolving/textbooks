@@ -55,7 +55,7 @@ statement. Usually, with puzzles, there is a substantial amount of implicit
 information in the problem statement that needs to be made explicit. 
 For example, initially, [[all the four elements are at the same river 
 bank | there are two elements on each river bank]].
-Also, [[farmer | goat | cabbage | wolf]] has to accompany each of the other 
+Also, the [[farmer | goat | cabbage | wolf]] has to accompany each of the other 
 elements when crossing the river. 
 
 Note that we adopt what [E. W. Dijkstra](bio:ewdijkstra) called the rule of 
