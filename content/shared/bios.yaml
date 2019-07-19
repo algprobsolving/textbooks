@@ -625,6 +625,31 @@ euler:
     - title: Polyhedrons
       url: /course/polygons-and-polyhedra/polyhedra
 
+ewdijkstra:
+  name: Dijkstra
+  born: 1930
+  died: 2002
+  bio: |
+    __Edsger W. Dijkstra__ (1930 – 2002) was a Dutch systems scientist, 
+    programmer, software engineer, science essayist, and pioneer in computing 
+    science.
+
+    One of the most influential figures of computing science's founding 
+    generation, Dijkstra helped shape the new discipline from both an 
+    engineering and a theoretical perspective. He was widely known for his 
+    1959 solution to the shortest-path problem; his algorithm is still used to 
+    determine the fastest way between two points, as in the routing of 
+    communication networks and in flight planning. His research on the idea of 
+    mutual exclusion in communications led him to suggest in 1968 the concept 
+    of computer semaphores, which are used in virtually every modern operating 
+    system. A letter he wrote in 1968 was extremely influential in the 
+    development of structured programming. 
+
+    Dijkstra was the recipient of many awards, notably the Association for 
+    Computing Machinery's prestigious Turing Award in 1972. He held the 
+    Schlumberger centennial chair in computer sciences from 1984 to 1999, when 
+    he retired.
+
 fermat:
   name: Fermat
   born: 1607
